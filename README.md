@@ -8,6 +8,7 @@ Inside this repository is the backend of a user item collection application. Mor
 
 Repository Name: Insurance Database                                            
 Link to repository: https://github.com/alexpowmow/InsuranceDatabase
+
 Inside this repository is a program designed to retrieve information from an Insurance company database. I designed the database myself using SQL and created the insuranceDatabase.java file which provides a way for a user to interact with the database. Unfortunately, I no longer have access to my account so there will be no way to log into the databse. However, all of the code is there along with a folder for additions I made in the database, and a pdf of the ER Diagram. 
 
 
